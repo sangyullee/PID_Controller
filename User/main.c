@@ -10,8 +10,6 @@
 #include <stdbool.h>
 #include <stdint.h>
 
-
-
 #define CALIB_SAMPLE 200
 #define MOTOR1_PWM PWM_CHANNEL_1
 #define MOTOR2_PWM PWM_CHANNEL_2
