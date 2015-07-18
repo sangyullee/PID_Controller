@@ -1,7 +1,5 @@
 #include <Hardware.h>
 
-
-
 void LED_Init(void)
 {
 	GPIO_InitTypeDef GPIO_InitStructure;

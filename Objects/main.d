@@ -39,3 +39,5 @@
 .\objects\main.o: .\Drivers\AMES_PWM.h
 .\objects\main.o: .\Drivers\AMES_ACS712.h
 .\objects\main.o: .\Drivers\AMES_TIMER.h
+.\objects\main.o: .\Drivers\AMES_FIR.h
+.\objects\main.o: .\Drivers\AMES_PID.h

@@ -10,7 +10,7 @@
 #include <stdbool.h>
 
 enum  {MOTOR1, MOTOR2, MOTOR3};
-
+enum  {RESERVE, FORWARD};
 void LED_Init(void);
 void LED_Toggle(void);
 

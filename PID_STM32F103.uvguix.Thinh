@@ -11,7 +11,7 @@
     <View>
       <WinId>38003</WinId>
       <ViewName>Registers</ViewName>
-      <TableColWidths>131 259</TableColWidths>
+      <TableColWidths>115 94</TableColWidths>
     </View>
     <View>
       <WinId>346</WinId>
@@ -21,7 +21,7 @@
     <View>
       <WinId>204</WinId>
       <ViewName>Performance Analyzer</ViewName>
-      <TableColWidths>595 89 89 100</TableColWidths>
+      <TableColWidths>595</TableColWidths>
     </View>
   </SECTreeCtrl>
 
@@ -73,8 +73,8 @@
       <flags>2</flags>
       <showCmd>3</showCmd>
       <MinPosition>
-        <xPos>-1</xPos>
-        <yPos>-1</yPos>
+        <xPos>-32000</xPos>
+        <yPos>-32000</yPos>
       </MinPosition>
       <MaxPosition>
         <xPos>-1</xPos>
@@ -90,8 +90,8 @@
     <MDIClientArea>
       <RegID>0</RegID>
       <MDITabState>
-        <Len>1375</Len>
-        <Data>0100000004000000010000000100000001000000010000000000000002000000000000000100000001000000000000002800000028000000010000001000000002000000010000002A443A5C41524D5C5049445F436F6E74726F6C6C65725C447269766572735C414D45535F54494D45522E48000000000C414D45535F54494D45522E4800000000B5E99D00FFFFFFFF25443A5C41524D5C5049445F436F6E74726F6C6C65725C557365725C48617264776172652E63000000000A48617264776172652E6300000000A5C2D700FFFFFFFF21443A5C41524D5C5049445F436F6E74726F6C6C65725C557365725C6D61696E2E6300000000066D61696E2E6300000000BCA8E100FFFFFFFF2B443A5C41524D5C5049445F436F6E74726F6C6C65725C447269766572735C414D45535F4143533731322E68000000000D414D45535F4143533731322E6800000000C5D4F200FFFFFFFF2B443A5C41524D5C5049445F436F6E74726F6C6C65725C447269766572735C414D45535F4143533731322E63000000000D414D45535F4143533731322E6300000000F6FA7D00FFFFFFFF28443A5C41524D5C5049445F436F6E74726F6C6C65725C447269766572735C414D45535F50574D2E63000000000A414D45535F50574D2E6300000000C5D4F200FFFFFFFF28443A5C41524D5C5049445F436F6E74726F6C6C65725C447269766572735C414D45535F50574D2E68000000000A414D45535F50574D2E6800000000EAD6A300FFFFFFFF2A443A5C41524D5C5049445F436F6E74726F6C6C65725C447269766572735C414D45535F55534152542E63000000000C414D45535F55534152542E6300000000C5D4F200FFFFFFFF2A443A5C41524D5C5049445F436F6E74726F6C6C65725C447269766572735C414D45535F55534152542E68000000000C414D45535F55534152542E6800000000B3A6BE00FFFFFFFF25443A5C41524D5C5049445F436F6E74726F6C6C65725C557365725C48617264776172652E68000000000A48617264776172652E6800000000C5D4F200FFFFFFFF2A443A5C41524D5C5049445F436F6E74726F6C6C65725C447269766572735C414D45535F434C4F434B2E68000000000C414D45535F434C4F434B2E6800000000D9ADC200FFFFFFFF57443A5C41524D5C5049445F436F6E74726F6C6C65725C53797374656D5C4C69627261726965735C434D5349535C434D335C446576696365537570706F72745C53545C53544D3332463130785C73746D3332663130782E68000000000B73746D3332663130782E6800000000F7B88600FFFFFFFF2A443A5C41524D5C5049445F436F6E74726F6C6C65725C447269766572735C414D45535F434C4F434B2E63000000000C414D45535F434C4F434B2E63000000009CC1B600FFFFFFFF55443A5C41524D5C5049445F436F6E74726F6C6C65725C53797374656D5C4C69627261726965735C53544D3332463130785F5374645065726970685F4472697665725C7372635C73746D3332663130785F7263632E63000000000F73746D3332663130785F7263632E6300000000F0A0A100FFFFFFFF27443A5C41524D5C5049445F436F6E74726F6C6C65725C557365725C414D45535F44656C61792E63000000000C414D45535F44656C61792E6300000000BECEA100FFFFFFFF27443A5C41524D5C5049445F436F6E74726F6C6C65725C557365725C414D45535F44656C61792E68000000000C414D45535F44656C61792E6800000000FFDC7800FFFFFFFF0100000010000000C5D4F200FFDC7800BECEA100F0A0A100BCA8E1009CC1B600F7B88600D9ADC200A5C2D700B3A6BE00EAD6A300F6FA7D00B5E99D005FC3CF00C1838300CACAD500010000000000000002000000C1000000660000007704000021020000</Data>
+        <Len>571</Len>
+        <Data>01000000040000000100000001000000010000000100000000000000020000000000000001000000010000000000000028000000280000000100000006000000040000000100000028443A5C41524D5C5049445F436F6E74726F6C6C65725C447269766572735C414D45535F4649522E63000000000A414D45535F4649522E63000000009CC1B600FFFFFFFF2A443A5C41524D5C5049445F436F6E74726F6C6C65725C447269766572735C414D45535F55534152542E63000000000C414D45535F55534152542E6300000000A5C2D700FFFFFFFF25443A5C41524D5C5049445F436F6E74726F6C6C65725C557365725C48617264776172652E68000000000A48617264776172652E6800000000D9ADC200FFFFFFFF2A443A5C41524D5C5049445F436F6E74726F6C6C65725C447269766572735C414D45535F434C4F434B2E68000000000C414D45535F434C4F434B2E6800000000F7B88600FFFFFFFF21443A5C41524D5C5049445F436F6E74726F6C6C65725C557365725C6D61696E2E6300000000066D61696E2E6300000000C5D4F200FFFFFFFF25443A5C41524D5C5049445F436F6E74726F6C6C65725C557365725C48617264776172652E63000000000A48617264776172652E6300000000C1838300FFFFFFFF0100000010000000C5D4F200FFDC7800BECEA100F0A0A100BCA8E1009CC1B600F7B88600D9ADC200A5C2D700B3A6BE00EAD6A300F6FA7D00B5E99D005FC3CF00C1838300CACAD500010000000000000002000000C1000000660000007704000021020000</Data>
       </MDITabState>
     </MDIClientArea>
     <ViewEx>
@@ -2583,66 +2583,12 @@
     <ActiveMDIGroup>0</ActiveMDIGroup>
     <MDIGroup>
       <Size>100</Size>
-      <ActiveTab>2</ActiveTab>
+      <ActiveTab>4</ActiveTab>
       <Doc>
-        <Name>.\Drivers\AMES_TIMER.h</Name>
-        <ColumnNumber>1</ColumnNumber>
-        <TopLine>13</TopLine>
-        <CurrentLine>30</CurrentLine>
-        <Folding>1</Folding>
-        <ContractedFolders></ContractedFolders>
-        <PaneID>0</PaneID>
-      </Doc>
-      <Doc>
-        <Name>.\User\Hardware.c</Name>
-        <ColumnNumber>12</ColumnNumber>
-        <TopLine>21</TopLine>
-        <CurrentLine>32</CurrentLine>
-        <Folding>1</Folding>
-        <ContractedFolders></ContractedFolders>
-        <PaneID>0</PaneID>
-      </Doc>
-      <Doc>
-        <Name>.\User\main.c</Name>
-        <ColumnNumber>1</ColumnNumber>
-        <TopLine>1</TopLine>
-        <CurrentLine>10</CurrentLine>
-        <Folding>1</Folding>
-        <ContractedFolders></ContractedFolders>
-        <PaneID>0</PaneID>
-      </Doc>
-      <Doc>
-        <Name>.\Drivers\AMES_ACS712.h</Name>
-        <ColumnNumber>22</ColumnNumber>
-        <TopLine>16</TopLine>
-        <CurrentLine>23</CurrentLine>
-        <Folding>1</Folding>
-        <ContractedFolders></ContractedFolders>
-        <PaneID>0</PaneID>
-      </Doc>
-      <Doc>
-        <Name>.\Drivers\AMES_ACS712.c</Name>
-        <ColumnNumber>34</ColumnNumber>
-        <TopLine>18</TopLine>
-        <CurrentLine>103</CurrentLine>
-        <Folding>1</Folding>
-        <ContractedFolders></ContractedFolders>
-        <PaneID>0</PaneID>
-      </Doc>
-      <Doc>
-        <Name>.\Drivers\AMES_PWM.c</Name>
-        <ColumnNumber>22</ColumnNumber>
-        <TopLine>62</TopLine>
-        <CurrentLine>92</CurrentLine>
-        <Folding>1</Folding>
-        <ContractedFolders></ContractedFolders>
-        <PaneID>0</PaneID>
-      </Doc>
-      <Doc>
-        <Name>.\Drivers\AMES_PWM.h</Name>
-        <ColumnNumber>27</ColumnNumber>
-        <TopLine>14</TopLine>
-        <CurrentLine>29</CurrentLine>
+        <Name>.\Drivers\AMES_FIR.c</Name>
+        <ColumnNumber>5</ColumnNumber>
+        <TopLine>77</TopLine>
+        <CurrentLine>91</CurrentLine>
         <Folding>1</Folding>
         <ContractedFolders></ContractedFolders>
         <PaneID>0</PaneID>
@@ -2650,26 +2596,17 @@
       <Doc>
         <Name>.\Drivers\AMES_USART.c</Name>
         <ColumnNumber>2</ColumnNumber>
-        <TopLine>111</TopLine>
-        <CurrentLine>124</CurrentLine>
-        <Folding>1</Folding>
-        <ContractedFolders></ContractedFolders>
-        <PaneID>0</PaneID>
-      </Doc>
-      <Doc>
-        <Name>.\Drivers\AMES_USART.h</Name>
-        <ColumnNumber>63</ColumnNumber>
-        <TopLine>82</TopLine>
-        <CurrentLine>95</CurrentLine>
+        <TopLine>51</TopLine>
+        <CurrentLine>43</CurrentLine>
         <Folding>1</Folding>
         <ContractedFolders></ContractedFolders>
         <PaneID>0</PaneID>
       </Doc>
       <Doc>
         <Name>.\User\Hardware.h</Name>
-        <ColumnNumber>31</ColumnNumber>
+        <ColumnNumber>23</ColumnNumber>
         <TopLine>2</TopLine>
-        <CurrentLine>12</CurrentLine>
+        <CurrentLine>13</CurrentLine>
         <Folding>1</Folding>
         <ContractedFolders></ContractedFolders>
         <PaneID>0</PaneID>
@@ -2684,47 +2621,20 @@
         <PaneID>0</PaneID>
       </Doc>
       <Doc>
-        <Name>.\System\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h</Name>
-        <ColumnNumber>20</ColumnNumber>
-        <TopLine>98</TopLine>
-        <CurrentLine>105</CurrentLine>
+        <Name>.\User\main.c</Name>
+        <ColumnNumber>26</ColumnNumber>
+        <TopLine>130</TopLine>
+        <CurrentLine>136</CurrentLine>
         <Folding>1</Folding>
         <ContractedFolders></ContractedFolders>
         <PaneID>0</PaneID>
       </Doc>
       <Doc>
-        <Name>.\Drivers\AMES_CLOCK.c</Name>
+        <Name>.\User\Hardware.c</Name>
         <ColumnNumber>0</ColumnNumber>
         <TopLine>1</TopLine>
-        <CurrentLine>7</CurrentLine>
+        <CurrentLine>2</CurrentLine>
         <Folding>1</Folding>
-        <ContractedFolders></ContractedFolders>
-        <PaneID>0</PaneID>
-      </Doc>
-      <Doc>
-        <Name>.\System\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_rcc.c</Name>
-        <ColumnNumber>27</ColumnNumber>
-        <TopLine>1077</TopLine>
-        <CurrentLine>1095</CurrentLine>
-        <Folding>1</Folding>
-        <ContractedFolders></ContractedFolders>
-        <PaneID>0</PaneID>
-      </Doc>
-      <Doc>
-        <Name>.\User\AMES_Delay.c</Name>
-        <ColumnNumber>13</ColumnNumber>
-        <TopLine>1</TopLine>
-        <CurrentLine>10</CurrentLine>
-        <Folding>0</Folding>
-        <ContractedFolders></ContractedFolders>
-        <PaneID>0</PaneID>
-      </Doc>
-      <Doc>
-        <Name>.\User\AMES_Delay.h</Name>
-        <ColumnNumber>0</ColumnNumber>
-        <TopLine>1</TopLine>
-        <CurrentLine>7</CurrentLine>
-        <Folding>0</Folding>
         <ContractedFolders></ContractedFolders>
         <PaneID>0</PaneID>
       </Doc>
